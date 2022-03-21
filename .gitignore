@@ -1,0 +1,5 @@
+*-backups/
+jlcpcb/
+fabrication/
+*.step
+*.svg
